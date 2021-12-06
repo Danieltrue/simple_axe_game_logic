@@ -62,7 +62,7 @@
           "OBJS=*.cpp"
         ]
       },
-      "problemMatcher": ["$gcc"],
+      "problemMatcher": [],
       "group": {
         "kind": "build",
         "isDefault": true
